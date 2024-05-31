@@ -1,0 +1,4318 @@
+[
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4903582,
+            "tx_ref": "Rave-Pages391331943147",
+            "flw_ref": "FLW-MOCK-731038393be4cb35164f13a2c501719f",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T09:36:15.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353486,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T09:36:15.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4903583,
+            "tx_ref": "Rave-Pages027208382021",
+            "flw_ref": "FLW-MOCK-c41926829d6b36853dc8d6803aac95f5",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T09:37:31.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353487,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-14T09:37:31.000Z"
+            },
+            "card": {
+                "first_6digits": "539983",
+                "last_4digits": "8381",
+                "issuer": "MASTERCARD GUARANTY TRUST BANK Mastercard Naira Debit Card",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "10\/31"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4907089,
+            "tx_ref": "Rave-Pages371277373135",
+            "flw_ref": "FLW-MOCK-6baeb8d98ba66293a263d9bba61e0816",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T17:22:31.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353819,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:22:31.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4907161,
+            "tx_ref": "Rave-Pages220177037037",
+            "flw_ref": "FLW-MOCK-44b345f4928ef4801842628cd15fa647",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T17:26:15.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353821,
+                "name": "Fadil Adedamola",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:26:15.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4907379,
+            "tx_ref": "Rave-Pages477170929723",
+            "flw_ref": "FLW-MOCK-f6e0057c697ba3fa7db01413c5d1e9f6",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T17:37:08.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353831,
+                "name": "Adedamola Adeleke",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:37:08.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4907766,
+            "tx_ref": "Rave-Pages170785737078",
+            "flw_ref": "FLW-MOCK-f8067ffe42be20e7f552fae6b6ebb2fb",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T17:59:08.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353847,
+                "name": "Dealk WebT",
+                "phone_number": null,
+                "email": "gasj@md.com",
+                "created_at": "2024-02-14T17:59:08.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4909332,
+            "tx_ref": "Rave-Pages334380347631",
+            "flw_ref": "FLW-MOCK-8db635b21c0085e57607af7f830e6257",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T19:24:44.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353897,
+                "name": "Adebola Bolaji",
+                "phone_number": null,
+                "email": "bola@h.com",
+                "created_at": "2024-02-14T19:24:44.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4909795,
+            "tx_ref": "Rave-Pages404000707100",
+            "flw_ref": "FLW-MOCK-4819709d5343acfcd2846fdd72322293",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-14T19:48:04.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353913,
+                "name": "Glaz Zal",
+                "phone_number": null,
+                "email": "dingo@gini.com",
+                "created_at": "2024-02-14T19:48:04.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915437,
+            "tx_ref": "Rave-Pages777735787150",
+            "flw_ref": "FLW-MOCK-5e0c157a2a1c9a753d63ea439ff50840",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T07:41:31.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355520,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T07:41:31.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915478,
+            "tx_ref": "Rave-Pages871616086699",
+            "flw_ref": "FLW-MOCK-f8d906a0bdfe5c604a2e744502abbe14",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:32:05.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355532,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:32:05.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915489,
+            "tx_ref": "Rave-Pages285729192159",
+            "flw_ref": "FLW-MOCK-4b34b012f5340fc1ad80051702b702fe",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:41:38.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355533,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:41:38.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915532,
+            "tx_ref": "Rave-Pages070000227102",
+            "flw_ref": "FLW-MOCK-7efe5e1bf461b5884499b8fcf5dea78a",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T09:00:50.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355536,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olelakanray18@gmail.com",
+                "created_at": "2024-02-17T09:00:50.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915478,
+            "tx_ref": "Rave-Pages871616086699",
+            "flw_ref": "FLW-MOCK-f8d906a0bdfe5c604a2e744502abbe14",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:32:05.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355532,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:32:05.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915543,
+            "tx_ref": "Rave-Pages498116970730",
+            "flw_ref": "FLW-MOCK-91fb14f9d57f0c875498f278250ebabb",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T09:09:57.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355538,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T09:09:57.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915489,
+            "tx_ref": "Rave-Pages285729192159",
+            "flw_ref": "FLW-MOCK-4b34b012f5340fc1ad80051702b702fe",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:41:38.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355533,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:41:38.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915544,
+            "tx_ref": "Rave-Pages005126496924",
+            "flw_ref": "FLW-MOCK-d5df83922382c7b815debae0a9757c69",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T09:13:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355539,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T09:13:35.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915521,
+            "tx_ref": "Rave-Pages758010118881",
+            "flw_ref": "FLW-MOCK-19b46c9c130a69ed4446244b786978c3",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:52:51.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355534,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:52:51.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915532,
+            "tx_ref": "Rave-Pages070000227102",
+            "flw_ref": "FLW-MOCK-7efe5e1bf461b5884499b8fcf5dea78a",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T09:00:50.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355536,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olelakanray18@gmail.com",
+                "created_at": "2024-02-17T09:00:50.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915478,
+            "tx_ref": "Rave-Pages871616086699",
+            "flw_ref": "FLW-MOCK-f8d906a0bdfe5c604a2e744502abbe14",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:32:05.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355532,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:32:05.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915543,
+            "tx_ref": "Rave-Pages498116970730",
+            "flw_ref": "FLW-MOCK-91fb14f9d57f0c875498f278250ebabb",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T09:09:57.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355538,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T09:09:57.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915489,
+            "tx_ref": "Rave-Pages285729192159",
+            "flw_ref": "FLW-MOCK-4b34b012f5340fc1ad80051702b702fe",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T08:41:38.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355533,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:41:38.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915900,
+            "tx_ref": "Rave-Pages398446087692",
+            "flw_ref": "FLW-MOCK-e6e83b617bc1a14816b264050b63259b",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T13:19:43.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355625,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-17T13:19:43.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915934,
+            "tx_ref": "Rave-Pages781960499476",
+            "flw_ref": "FLW-MOCK-b9f4e1a4720f74a9373d25e79b0170f9",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T13:39:25.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355645,
+                "name": "Delak WebTech",
+                "phone_number": null,
+                "email": "delab@gmail.com",
+                "created_at": "2024-02-17T13:39:25.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4915947,
+            "tx_ref": "Rave-Pages170677110871",
+            "flw_ref": "FLW-MOCK-e3b70750b13f83ddf84c43b72b6dea42",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-17T13:56:34.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355650,
+                "name": "Fadil Leke",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-17T13:56:34.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4930353,
+            "tx_ref": "Rave-Pages175014710505",
+            "flw_ref": "FLW-MOCK-e1897c3782bbcba8261ffd34ad4d30ce",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-24T09:03:10.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2360067,
+                "name": "Bambo Leather",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-24T09:03:10.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4932678,
+            "tx_ref": "Rave-Pages758470104800",
+            "flw_ref": "FLW-MOCK-3f1d3037ac8693314e1bf8e53cb7fa5d",
+            "device_fingerprint": "88f1a7107aca48f7afc00785c37f0508",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-02-25T15:28:59.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2360612,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-25T15:28:59.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4942300,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-5b872b70f188bf777c655c8d0ad9cbb5",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-01T09:33:20.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4944220,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-35c0d1d611672730f3403a5cad75ad10",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-02T09:33:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4945656,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2debb6d7f23052d0d304ba82e4151fa1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-03T09:33:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        }
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4947230,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2a7fe049161ff8a14477e52a873ab36a",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-04T09:34:03.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4949024,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-b7cc0f2df096e193752b50112166eb42",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-05T09:34:25.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4950858,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-d4751a0398ae1a127796855a28c23eb3",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-06T09:34:37.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4952710,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-5d9f244567e0897e450efe9ff3a782d6",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-07T09:34:54.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4954513,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-508752dafc28dfd848ac880f00112bab",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-08T09:35:16.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4956114,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-8220a0374dfdc2bd6405c67ecf2fee0e",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-09T09:35:32.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4956641,
+            "tx_ref": "Rave-Pages576103011160",
+            "flw_ref": "FLW-MOCK-5b07b60f4d807b48394f9c245c99400b",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-09T16:29:12.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2368565,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-09T16:29:12.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4956646,
+            "tx_ref": "Rave-Pages001020007011",
+            "flw_ref": "FLW-MOCK-a359d50bd9b0e19baf0a3a1e92792c11",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-09T16:34:51.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2368569,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-09T16:34:51.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4956663,
+            "tx_ref": "Rave-Pages052728021072",
+            "flw_ref": "FLW-MOCK-e27b427e7fa7be648d53b75e04a1dad5",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-09T16:44:07.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2368574,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-09T16:44:07.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4956666,
+            "tx_ref": "Rave-Pages731730300737",
+            "flw_ref": "FLW-MOCK-1316ba5964094851b1268eba3ea18fcf",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-09T16:51:24.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2368576,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-09T16:51:24.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4957453,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-fa94586844f3f3a64e9f3c745ad8028f",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-10T09:35:48.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4961036,
+            "tx_ref": "Rave-Pages661113333661",
+            "flw_ref": "FLW-MOCK-32aa325961f69fd2b97451489df0adc0",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-12T09:24:09.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2370198,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-12T09:24:09.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4961041,
+            "tx_ref": "Rave-Pages173227377343",
+            "flw_ref": "FLW-MOCK-5f54eb92a0573c589e9dcd25cb3e2b59",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-12T09:26:08.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2370200,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-12T09:26:08.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4961083,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-0c0438647105db8540bac0a0a97c6af1",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-12T09:36:20.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4963071,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-45811e2c2a275da28e8dcd0f4ca2de6e",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-13T09:36:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964885,
+            "tx_ref": "Rave-Pages301219719133",
+            "flw_ref": "FLW-MOCK-bee9d922acb478bc9b2a46221ccc9a59",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:05:41.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2371787,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-14T07:05:41.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964913,
+            "tx_ref": "Rave-Pages102211020607",
+            "flw_ref": "FLW-MOCK-b7d8bf2ff3cc9a81c4a8d169d851d363",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:11:27.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2371812,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-14T07:11:27.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964922,
+            "tx_ref": "Rave-Pages808877598587",
+            "flw_ref": "FLW-MOCK-SUB-e5993df78c28b5bbc491bdc82398b386",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:15:43.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353391,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T07:15:21.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964930,
+            "tx_ref": "Rave-Pages457751885159",
+            "flw_ref": "FLW-MOCK-SUB-07ee66a59402ef33f9442560e8c4d22d",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:19:56.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353404,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T07:19:47.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964963,
+            "tx_ref": "Rave-Pages770608927819",
+            "flw_ref": "FLW-MOCK-SUB-9c998e1cc520ad0bc63f3f7c1d8237fd",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:37:55.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353415,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T07:37:28.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964972,
+            "tx_ref": "Rave-Pages116538226892",
+            "flw_ref": "FLW-MOCK-SUB-205529756e230e899432a8ad1e0a831d",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:44:29.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353419,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T07:44:16.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4964974,
+            "tx_ref": "Rave-Pages179770347473",
+            "flw_ref": "FLW-MOCK-SUB-08645b67b6dd4ed1d17a7e333e6f66b7",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T07:46:15.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353421,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T07:46:02.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965046,
+            "tx_ref": "Rave-Pages719190718877",
+            "flw_ref": "FLW-MOCK-SUB-a4c3e9ad8828d505f936895283137f6e",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T08:27:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353440,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetrealm@gmail.com",
+                "created_at": "2024-02-14T08:27:21.000Z"
+            },
+            "card": {
+                "first_6digits": "539983",
+                "last_4digits": "8381",
+                "issuer": "MASTERCARD GUARANTY TRUST BANK Mastercard Naira Debit Card",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "10\/31"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965060,
+            "tx_ref": "Rave-Pages788570657908",
+            "flw_ref": "FLW-MOCK-SUB-916dc6a481fc03f5dd7100d0e3ff706d",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T08:33:28.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353443,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T08:33:17.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965075,
+            "tx_ref": "Rave-Pages817770083773",
+            "flw_ref": "FLW-MOCK-SUB-e1820158125e648b3e72825acfc3da55",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T08:42:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353446,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T08:42:32.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965173,
+            "tx_ref": "Rave-Pages391331943147",
+            "flw_ref": "FLW-MOCK-SUB-e7fe38706c0ff76650ceb741f220751b",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T09:36:25.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353486,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-14T09:36:15.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965174,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-044f86ea791cb2177644b7b6a579db23",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T09:36:50.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4965176,
+            "tx_ref": "Rave-Pages027208382021",
+            "flw_ref": "FLW-MOCK-SUB-5bb1e07ccef996a9ff593d5e4712426e",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T09:37:43.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353487,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-14T09:37:31.000Z"
+            },
+            "card": {
+                "first_6digits": "539983",
+                "last_4digits": "8381",
+                "issuer": "MASTERCARD GUARANTY TRUST BANK Mastercard Naira Debit Card",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "10\/31"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967551,
+            "tx_ref": "Rave-Pages220177037037",
+            "flw_ref": "FLW-MOCK-SUB-cccd290b2bb7e29493c1982d847d7504",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T17:56:22.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353821,
+                "name": "Fadil Adedamola",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:26:15.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967550,
+            "tx_ref": "Rave-Pages371277373135",
+            "flw_ref": "FLW-MOCK-SUB-4d223f507d2f3d27cd2611c3196616ef",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T17:56:22.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353819,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:22:31.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967573,
+            "tx_ref": "Rave-Pages477170929723",
+            "flw_ref": "FLW-MOCK-SUB-22498db295d8f38c9e3f518dff6353cc",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T17:56:43.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353831,
+                "name": "Adedamola Adeleke",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-14T17:37:08.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967598,
+            "tx_ref": "Rave-Pages170785737078",
+            "flw_ref": "FLW-MOCK-SUB-f0727aebc29752728f9b0c51d4ea5ce5",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T18:01:01.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353847,
+                "name": "Dealk WebT",
+                "phone_number": null,
+                "email": "gasj@md.com",
+                "created_at": "2024-02-14T17:59:08.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967712,
+            "tx_ref": "Rave-Pages334380347631",
+            "flw_ref": "FLW-MOCK-SUB-80b4d5af38b4be1ca040acbcd9e441b1",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T19:26:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353897,
+                "name": "Adebola Bolaji",
+                "phone_number": null,
+                "email": "bola@h.com",
+                "created_at": "2024-02-14T19:24:44.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4967722,
+            "tx_ref": "Rave-Pages404000707100",
+            "flw_ref": "FLW-MOCK-SUB-9e442c1bdae55772377578e506e4efd4",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-14T19:48:19.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2353913,
+                "name": "Glaz Zal",
+                "phone_number": null,
+                "email": "dingo@gini.com",
+                "created_at": "2024-02-14T19:48:04.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4968458,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-2ba4d0957e0fefba88cc26368e7d98c9",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-15T09:37:05.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970067,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-85a7ddaf8eb91313b412ea5f165f5caa",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T09:37:22.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970185,
+            "tx_ref": "Rave-Pages071110269551",
+            "flw_ref": "FLW-MOCK-7e247aa4dd36a92bebbdddc830afb78f",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T10:35:16.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373095,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-16T10:35:16.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970187,
+            "tx_ref": "Rave-Pages413715470845",
+            "flw_ref": "FLW-MOCK-6854ef1c982747022bc9a6606baac539",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T10:39:05.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373097,
+                "name": "Bakre Fadil",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-16T10:39:05.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970205,
+            "tx_ref": "Rave-Pages159829157777",
+            "flw_ref": "FLW-MOCK-639fc2de1f64ef24d9fc5d868f840f94",
+            "device_fingerprint": "16e3e279bcfa40b90319ec36c4b09d05",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T10:51:09.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373100,
+                "name": "Adedamola ",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-16T10:51:09.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970206,
+            "tx_ref": "Rave-Pages556603658365",
+            "flw_ref": "FLW-MOCK-43258302cb22d41437f6c286077ff83d",
+            "device_fingerprint": "16e3e279bcfa40b90319ec36c4b09d05",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T10:53:04.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373101,
+                "name": "duvan Zapata",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-16T10:53:04.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4970248,
+            "tx_ref": "Rave-Pages588919815189",
+            "flw_ref": "FLW-MOCK-b10a51542718fbf2c99dcf58bc28d759",
+            "device_fingerprint": "16e3e279bcfa40b90319ec36c4b09d05",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-16T11:30:28.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373106,
+                "name": "Faisal Haneef",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-16T11:30:28.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971445,
+            "tx_ref": "Rave-Pages777735787150",
+            "flw_ref": "FLW-MOCK-SUB-240f3e6000130b007b4e3e5727aba48d",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T07:41:42.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355520,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T07:41:31.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971494,
+            "tx_ref": "Rave-Pages871616086699",
+            "flw_ref": "FLW-MOCK-SUB-989e04fb9f262903fad16c3babad76e2",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T08:32:16.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355532,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:32:05.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971505,
+            "tx_ref": "Rave-Pages285729192159",
+            "flw_ref": "FLW-MOCK-SUB-b573c17cb69858d54d0a5a5c8be36434",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T08:41:48.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355533,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:41:38.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971526,
+            "tx_ref": "Rave-Pages758010118881",
+            "flw_ref": "FLW-MOCK-SUB-446c5d80f9edff196b141f58763217c5",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T08:53:04.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355534,
+                "name": "Deets Realm",
+                "phone_number": null,
+                "email": "deetsrealm@gmail.com",
+                "created_at": "2024-02-17T08:52:51.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971534,
+            "tx_ref": "Rave-Pages070000227102",
+            "flw_ref": "FLW-MOCK-SUB-d29dfc2a478ec3ddcb4355f3bf86f1f7",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T09:01:03.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355536,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olelakanray18@gmail.com",
+                "created_at": "2024-02-17T09:00:50.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971542,
+            "tx_ref": "Rave-Pages498116970730",
+            "flw_ref": "FLW-MOCK-SUB-0e421d91d3cac215e14c90e327466af7",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T09:10:19.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355538,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T09:09:57.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971545,
+            "tx_ref": "Rave-Pages005126496924",
+            "flw_ref": "FLW-MOCK-SUB-d250a0a3cabe41497e2063b49fc6c82a",
+            "device_fingerprint": "7e2f708ad631c30adb8e14501f82d855",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T09:13:47.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355539,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-02-17T09:13:35.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971583,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-877cd806f68b5d277a469cb3071d7dcf",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T09:37:38.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971889,
+            "tx_ref": "Rave-Pages398446087692",
+            "flw_ref": "FLW-MOCK-SUB-0a22d7cd483579e01ab1155ac7bcd2ae",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T13:19:59.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355625,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-17T13:19:43.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971916,
+            "tx_ref": "Rave-Pages781960499476",
+            "flw_ref": "FLW-MOCK-SUB-aa6b891b4ae80811962516937e15bbde",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T13:39:36.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355645,
+                "name": "Delak WebTech",
+                "phone_number": null,
+                "email": "delab@gmail.com",
+                "created_at": "2024-02-17T13:39:25.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971929,
+            "tx_ref": "Rave-Pages170677110871",
+            "flw_ref": "FLW-MOCK-SUB-313cc96065bf7a2600820304406c6cd6",
+            "device_fingerprint": "c4de06fef6a89c04cddd7e227dc55d42",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "54.75.161.64",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T13:56:46.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2355650,
+                "name": "Fadil Leke",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-17T13:56:34.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4971987,
+            "tx_ref": "Rave-Pages008180717077",
+            "flw_ref": "FLW-MOCK-6504c1307f9cfe3b4525f580dbd4abab",
+            "device_fingerprint": "b2325a2fbf3bf28d81cf8db31e0e5c6b",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-17T15:03:49.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2373490,
+                "name": "Bakre Fadil",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-17T15:03:49.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4973268,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-4da96f1ea9e48266b907c68efd244719",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-18T09:37:54.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4975371,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-75e2715970f9a0c923279251fcf7c1ef",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-19T09:38:10.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4976170,
+            "tx_ref": "Rave-Pages662744401741",
+            "flw_ref": "FLW-MOCK-d03fc91ec517443f2a53ac5479a81d41",
+            "device_fingerprint": "b2325a2fbf3bf28d81cf8db31e0e5c6b",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-19T15:34:17.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2374829,
+                "name": "Bakre Fadil",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-19T15:34:17.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4977693,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-bef947bfbcd2b6db0d51d48ba45ede24",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-20T09:38:27.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4980048,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-aac70e6207c46d6e40ee735fbc6d8cb0",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-21T09:38:44.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4982296,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-b6da70e041311db80176a3cdcb15a9d9",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-22T09:39:02.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4984224,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-70950808d04b9e59d10004f007f26495",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-23T09:39:20.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4985773,
+            "tx_ref": "Rave-Pages175014710505",
+            "flw_ref": "FLW-MOCK-SUB-21eb96900c99d008a1db1b71a94a0a2e",
+            "device_fingerprint": "3a912fa764b8be216add04abe629e4a3",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-24T09:03:26.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2360067,
+                "name": "Bambo Leather",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-24T09:03:10.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4985829,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-d581a82702ea5ebdd0885f20e4edd8ac",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-24T09:39:35.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4987453,
+            "tx_ref": "Rave-Pages858502986182",
+            "flw_ref": "FLW-MOCK-SUB-913154655d02fdb08085c6ae092dfb4a",
+            "device_fingerprint": "7a4df843369e77a9afa2b8c00b2acb15",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for testteam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-25T09:39:51.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2363635,
+                "name": "Abdullah Abbas",
+                "phone_number": null,
+                "email": "olalekanray18@gmail.com",
+                "created_at": "2024-03-01T09:33:19.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4988135,
+            "tx_ref": "Rave-Pages758470104800",
+            "flw_ref": "FLW-MOCK-SUB-871dd2ff7ddf739febbe85942b9f1378",
+            "device_fingerprint": "88f1a7107aca48f7afc00785c37f0508",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "Approved",
+            "auth_model": "noauth",
+            "ip": "52.209.154.143",
+            "narration": "Charge for SilverTeam",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-25T15:29:17.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2360612,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-02-25T15:28:59.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991073,
+            "tx_ref": "Rave-Pages021079722777",
+            "flw_ref": "FLW-MOCK-8353ec63914c24bdd765b43f7a5fd88e",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:00:48.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379482,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:00:48.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991079,
+            "tx_ref": "Rave-Pages516810192718",
+            "flw_ref": "FLW-MOCK-16b22294644c09bc68219c25525a6a18",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:04:06.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379486,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:04:06.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991089,
+            "tx_ref": "Rave-Pages111221131541",
+            "flw_ref": "FLW-MOCK-e4fc54335dd85acbf815c5ce161f96f2",
+            "device_fingerprint": "97cc5e909e68a310c08cb2ecb2b569a2",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "52.209.154.143",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:09:01.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379508,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:09:01.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991100,
+            "tx_ref": "Rave-Pages756574071401",
+            "flw_ref": "FLW-MOCK-0be71eb4b72bccd2011ac22c2b0fcd7b",
+            "device_fingerprint": "97cc5e909e68a310c08cb2ecb2b569a2",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:11:52.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379510,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:11:51.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991106,
+            "tx_ref": "Rave-Pages403075160002",
+            "flw_ref": "FLW-MOCK-04478a6948336bf8f6093649bcf02892",
+            "device_fingerprint": "97cc5e909e68a310c08cb2ecb2b569a2",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:15:23.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379512,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:15:23.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "charge.completed",
+        "data": {
+            "id": 4991107,
+            "tx_ref": "Rave-Pages032172037731",
+            "flw_ref": "FLW-MOCK-ebbd6abc36bdbe52c9704ece33dfb88a",
+            "device_fingerprint": "0a5204c866155d7cbf702d2ba94c93b1",
+            "amount": 1500,
+            "currency": "NGN",
+            "charged_amount": 1500,
+            "app_fee": 21,
+            "merchant_fee": 0,
+            "processor_response": "successful",
+            "auth_model": "PIN",
+            "ip": "54.75.161.64",
+            "narration": "CARD Transaction ",
+            "status": "successful",
+            "payment_type": "card",
+            "created_at": "2024-03-27T07:17:38.000Z",
+            "account_id": 2450350,
+            "customer": {
+                "id": 2379513,
+                "name": "Fadil Bakre",
+                "phone_number": null,
+                "email": "fadilbaqrey@gmail.com",
+                "created_at": "2024-03-27T07:17:38.000Z"
+            },
+            "card": {
+                "first_6digits": "553188",
+                "last_4digits": "2950",
+                "issuer": "MASTERCARD  CREDIT",
+                "country": "NG",
+                "type": "MASTERCARD",
+                "expiry": "09\/32"
+            }
+        },
+        "event.type": "CARD_TRANSACTION"
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29538",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29538",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29537",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29536",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29535",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29534",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29533",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    },
+    {
+        "event": "subscription.cancelled",
+        "data": {
+            "id": "29533",
+            "status": "deactivated",
+            "currency": "NGN",
+            "amount": 1500,
+            "customer": {
+                "email": "fadilbaqrey@gmail.com",
+                "full_name": "Fadil Bakre"
+            },
+            "plan": {
+                "id": 63865,
+                "name": "Bronze Team",
+                "amount": 1500,
+                "currency": "NGN",
+                "interval": "Monthly",
+                "duration": -1,
+                "status": "active",
+                "date_created": "2024-03-25T19:29:26.000Z"
+            }
+        }
+    }
+]

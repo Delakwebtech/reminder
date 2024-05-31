@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.0",
+        "bricev/jobqueue": "1.0",
+        "mongodb/mongodb": "^1.11"
+    }
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            background-color: rgb(60, 0, 128);
+            color: white;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .my-button {
+            display: inline-block;
+            padding: 8px 15px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            cursor: pointer;
+            border: none;
+            color: Black;
+            border-radius: 20px;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1><b><u>Reminder to Admin Personnel</u></b></h1>
+        <h1>{{ reminderCounter }} Reminder: {{ taskName }}</h1>
+        <h4>Dear Admin</h4>
+        <h5>Warm Greetings.</h5>
+        <p>Kindly be reminded {{ taskName }} is due to be delivered by {{ dueDateTime }}.<br>
+            There are {{ hourstoDelivery }} hours left before this task is due<br>
+            Thank You.</p>
+        <p>Prolific</p>
+        <a href="#" class="my-button">Complete Task</a>
+    </div>
+</body>
+</html>

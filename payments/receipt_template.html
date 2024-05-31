@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            background-color: white;
+            color: black;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>PROLIFICME</h1><br>
+        <h1><b>Thanks for your Payment!</b></h1><br>
+        <p>We've attached your receipt to this email</p><br>
+        <h4>Transaction ID: {{ transactionId }}</h4>
+        <h4>Customer ID: {{ customerid }}</h4>
+        <h4>Amount: {{ amount }}</h4>
+    </div>
+</body>
+</html>
